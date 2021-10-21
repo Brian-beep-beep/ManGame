@@ -1,1 +1,2 @@
-# ManGame
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
